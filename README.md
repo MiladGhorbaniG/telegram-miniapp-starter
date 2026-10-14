@@ -136,3 +136,9 @@ cd frontend && npm test
 ```
 
 GitHub Actions runs Ruff, pytest, ESLint, Prettier, and Vitest. The suite uses SQLite and eager Celery tasks, so CI does not start RabbitMQ.
+
+## Related projects
+
+- [BookNook shelf assistant](https://github.com/MiladGhorbaniG/rag-docs-assistant) — retrieval chat over shelving notes, with citations
+- [BookNook editorial desk](https://github.com/MiladGhorbaniG/multi-agent-workflow) — planner, researcher, writer, and reviewer
+- [Introduction to carried out projects](https://github.com/MiladGhorbaniG/Introduction-to-carried-out-projects) — earlier work, plus the other public repositories
