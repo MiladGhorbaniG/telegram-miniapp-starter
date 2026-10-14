@@ -1,0 +1,52 @@
+:root {
+  font-family: Georgia, "Iowan Old Style", serif;
+  color: #2b241c;
+  background: #f4efe6;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 28px 18px 48px;
+}
+
+.lede,
+.error {
+  color: #6b5c4d;
+}
+
+.card {
+  background: #fffdf8;
+  border: 1px solid #e2d8c8;
+  border-radius: 12px;
+  padding: 14px;
+  margin-bottom: 12px;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+input {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #cbbba4;
+}
+
+button {
+  background: #8c4a32;
+  color: white;
+  border: 0;
+  border-radius: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
