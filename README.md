@@ -141,4 +141,5 @@ GitHub Actions runs Ruff, pytest, ESLint, Prettier, and Vitest. The suite uses S
 
 - [BookNook shelf assistant](https://github.com/MiladGhorbaniG/rag-docs-assistant) — retrieval chat over shelving notes, with citations
 - [BookNook editorial desk](https://github.com/MiladGhorbaniG/multi-agent-workflow) — planner, researcher, writer, and reviewer
+- [BookNook membership desk](https://github.com/MiladGhorbaniG/booknook-crm) — CRM pipeline, shared job queue, and note-grounded follow-ups
 - [Introduction to carried out projects](https://github.com/MiladGhorbaniG/Introduction-to-carried-out-projects) — earlier work, plus the other public repositories
