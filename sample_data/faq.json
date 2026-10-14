@@ -1,0 +1,22 @@
+[
+  {
+    "id": "hours",
+    "question": "When is the reading room open?",
+    "answer": "The BookNook reading room is open Tuesday through Sunday, from ten until eight. Monday is closed for shelving."
+  },
+  {
+    "id": "late-fee",
+    "question": "What is the late fee?",
+    "answer": "The late fee is one book credit per day after seven days past the due date. Credits are collected at the front desk."
+  },
+  {
+    "id": "guests",
+    "question": "May I bring a guest?",
+    "answer": "Each member may bring one guest on Sunday afternoon. Guests do not borrow books."
+  },
+  {
+    "id": "plan",
+    "question": "How much is the reading room plan?",
+    "answer": "The reading room plan is 900 cents, which is 9 dollars, billed once a month by the mock desk."
+  }
+]
