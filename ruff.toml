@@ -1,0 +1,10 @@
+line-length = 100
+target-version = "py311"
+src = ["src", "backend", "bot"]
+
+[lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[lint.per-file-ignores]
+"backend/**/migrations/*.py" = ["E501", "I001"]
+"bot/booknook_bot/main.py" = ["E402"]
